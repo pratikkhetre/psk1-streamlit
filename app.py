@@ -40,7 +40,7 @@ options_education_level = ['Junior high school','Elementary school','High school
 options_services_year = ['Unknown','2-5yrs','Above 10yr','5-10yrs','1-2yr','Below 1yr']
 
 options_acc_area = ['Other', 'Office areas', 'Residential areas', ' Church areas',
-    ' Industrial areas', 'School areas', ' Recreational areas',
+    ' Industrial areas', 'School areas',
     ' Outside rural areas', ' Hospital areas', ' Market areas',
     'Rural village areas', 'Unknown', 'Rural village areasOffice areas',
     'Recreational areas']
